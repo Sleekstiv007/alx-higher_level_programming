@@ -6,4 +6,3 @@ const lang = ['c programming', 'python programming', 'Javasript'];
 for (const item of lang) {
   console.log(item);
 }
-
